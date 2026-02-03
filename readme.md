@@ -59,6 +59,9 @@ The goal of this project is to understand the **end-to-end machine learning pipe
 - Hidden layer: Dense (128 neurons, ReLU activation)  
 - Output layer: Dense (10 neurons, Softmax activation)  
 
+The following diagram represents the architecture of the Artificial Neural Network (ANN) used in this project:
+
+![ANN Model Architecture](model.png)
 ---
 
 ## Results
