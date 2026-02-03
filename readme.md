@@ -38,12 +38,27 @@ The goal of this project is to understand the **end-to-end machine learning pipe
 
 ---
 
-## Technologies Used
-- Python  
-- NumPy  
-- Matplotlib & Seaborn  
-- TensorFlow / Keras  
-- Scikit-learn  
+##  Technologies & Tools Used
+### Programming & Libraries
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Data Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-teal?style=for-the-badge)
+
+### Machine Learning & Deep Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Framework-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-API-red?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow?style=for-the-badge&logo=scikit-learn&logoColor=black)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-Version%20Control-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)
+![Colab](https://img.shields.io/badge/Google%20Colab-Cloud-yellow?style=for-the-badge&logo=googlecolab)
+
 
 ---
 
