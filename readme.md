@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-Neural%20Network-red?style=for-the-badge&logo=keras&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ANN-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+
 # Image Classification using Artificial Neural Network (ANN)
 
 ## Project Overview
